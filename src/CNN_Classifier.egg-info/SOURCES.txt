@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/CNN_Classifier.egg-info/PKG-INFO
+src/CNN_Classifier.egg-info/SOURCES.txt
+src/CNN_Classifier.egg-info/dependency_links.txt
+src/CNN_Classifier.egg-info/top_level.txt
