@@ -16,6 +16,7 @@ class ClientApp:
     def __init__(self):
         self.filename = "inputImage.jpg"
         self.classifier = PredictionPipeline(self.filename)
+        
 
 @app.route("/", methods=['GET'])
 @cross_origin()
