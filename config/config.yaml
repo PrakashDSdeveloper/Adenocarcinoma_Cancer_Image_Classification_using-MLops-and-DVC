@@ -3,7 +3,7 @@ artifacts_root : artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion #creating the folder
-  source_URL: 'https://drive.google.com/file/d/1thATOJNW2aflEWYsVo4xJ7iVX0cRwNnW/view?usp=sharing' #Download from this URl
+  source_URL: 'https://drive.google.com/file/d/1aaGAUQP6O8P843ESU3UXaFwsJ4PLJs_Z/view?usp=sharing' #Download from this URl
   local_data_file: artifacts/data_ingestion/data.zip #Save the downloaded data as data.zip file
   unzip_dir: artifacts/data_ingestion  #unzip the file
 
